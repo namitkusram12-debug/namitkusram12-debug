@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi, I'm Namit Kusram 👋
 
-<!--
-**namitkusram12-debug/namitkusram12-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | Python | Web Development
 
-Here are some ideas to get you started:
+BCA student and Project Trainee focused on Python, software development, and web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building practical applications and learning new technologies through hands-on projects.
+
+---
+
+## 🛠️ Skills
+
+### Core
+- Python
+- HTML
+- CSS
+- JavaScript
+- C/C++
+
+### Working Knowledge
+- Java
+- SQL / PostgreSQL
+- Bootstrap
+- React
+- Git & GitHub
+
+---
+
+## 🚀 Featured Projects
+
+### 🚆 Smart RailGuard
+IoT-based railway safety monitoring prototype using ESP32 and sensors.
+
+**Tech:** ESP32, Arduino, C/C++, Sensors
+
+### 🌐 Web Development Projects
+Collection of practical web development projects created during my training and learning.
+
+**Tech:** HTML, CSS, JavaScript, Bootstrap
+
+### 📝 To-Do List
+A JavaScript-based task management application using DOM manipulation and LocalStorage.
+
+**Tech:** HTML, CSS, JavaScript
+
+---
+
+## 🏆 Achievement
+
+🥈 **2nd Prize — AITEH-2026**
+
+---
+
+## 🎓 Education
+
+**Bachelor of Computer Applications (BCA)**  
+St. Francis De Sales College, Nagpur
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Portfolio: https://namit-kusram.oneapp.dev
+- 💼 LinkedIn: [Your LinkedIn]
+- 📧 Email: [Your Email]
