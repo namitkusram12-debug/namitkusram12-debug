@@ -61,5 +61,5 @@ St. Francis De Sales College, Nagpur
 ## 📫 Connect With Me
 
 - 🌐 Portfolio: https://namit-kusram.oneapp.dev
-- 💼 LinkedIn: [Your LinkedIn]
-- 📧 Email: [Your Email]
+- 💼 LinkedIn: https://www.linkedin.com/in/namit-kusram-bca?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- 📧 Email: namitkusram12@gmail.com
